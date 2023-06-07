@@ -1,0 +1,1 @@
+FROM jupyter/pyspark-notebook:spark-3.4.0
